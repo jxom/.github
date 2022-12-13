@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paradigmxyz/.github/main/assets/logo-dark.svg">
-  <img alt="paradigm logo" src="https://raw.githubusercontent.com/paradigmxyz/.github/main/assets/logo-light.svg" width="auto" height="120">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jxom/.github/main/assets/logo-dark.svg">
+  <img alt="paradigm logo" src="https://raw.githubusercontent.com/jxom/.github/main/assets/logo-light.svg" width="auto" height="120">
 </picture>
 
 [Paradigm](https://paradigm.xyz/) is an investment firm focused on supporting the crypto/Web3 companies and protocols of tomorrow. Our approach is flexible, long term, multi-stage, and global.
